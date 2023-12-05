@@ -50,7 +50,3 @@ src/
 
 ```
 
-## SQL Server Database Structure:
- It can be found in folder /DbQueries
-
-
